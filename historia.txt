@@ -2,4 +2,6 @@ Hello Word
 
 I'm Dillan Smith and I want to be a great programer so I need to practice a lot.
 
+In this repository I'm goin to make a small web page.
+
 Thank you for reading.
