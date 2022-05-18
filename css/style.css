@@ -1,0 +1,19 @@
+.info{
+    width: 100%;
+    padding: 12px 6px;
+    border-radius: 3px;
+    background-color: white;
+
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 3px;
+}
+
+.info .imagen{
+    order: 2;
+}
+
+.imagen img{
+    width: 100%;
+    border-radius: 6px;
+}
